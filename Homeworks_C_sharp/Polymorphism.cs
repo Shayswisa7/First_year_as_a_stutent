@@ -65,7 +65,7 @@ namespace _01
         }
         public virtual void Skills()
         {
-            Console.WriteLine("No sckils");
+            Console.WriteLine("No skills");
         }
 
     }
